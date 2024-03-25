@@ -1,0 +1,67 @@
+Version: 1.2
+		
+Changelog is shown at the Steam Page
+
+		
+		=DISCLAIMER=
+This Mod was made just for me, but I Uploaded it in Case anyone would be Interested in a Generic OP Trait Mod. 
+I am not Responsible for any Corruptions or Broken things. 
+Use at your own Risk 
+(Its my First Mod and it should work but still use Caution, dont wanna Bork your Game up)
+		=DISCLAIMER=
+		
+		
+Adds Multiple Basically OP Traits. 
+They are so Rare that they have to be 
+given Manually via Debug or other Mods 
+that can give/take Traits.
+		
+There are 3 "Levels" of Intensity of the Strenght: 
+Master, Demigod and God.
+		
+		
+Master: 
+A Trait that enhances a Pawn far beyond 
+their Limits. Still in the Reigns of 
+"Normal Playtrough" even if 
+deemed Cheating
+		
+		
+Demigod: 
+4x~ as Strong as Master, 
+making them Overpowered
+		
+		
+God: 
+100x~ Stronger - 
+Basically just Cheating.
+		
+		
+		
+		
+Additionally Adds 2 "Compilation" Traits:
+		
+		
+Protagonist:
+Typical Isekai Anime Protagonist 
+sent into this World trough 
+a Car Accident. 
+(Adjusted to be Extremely Strong, 
+but not Unkillable Overpowered OP)
+		
+		
+Deity:
+Basically all God Traits combined 
+(Peak - You are basically Godmode) 
+(... Yet when a Ceiling of a 
+Cave Crushes you, it still means 
+Instant death for whatever reason)
+		
+Additionally Adds 2 Cursed and 1 Accursed Trait 
+(Cursed = 1 OP Strenght BUT Strong Weakness)
+(Accursed = This Pawn is meant to suffer.)
+		
+		
+		
+	I hope you found what you searched for 
+	and have fun with it!

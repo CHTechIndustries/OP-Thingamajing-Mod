@@ -1,0 +1,172 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+
+	<!-- I have no idea how Grenades Work-->
+	
+	
+	<ThingDef Name="BaseGrenadeProjectile_Extinction" Abstract="True">
+		<category>Projectile</category>
+		<altitudeLayer>Projectile</altitudeLayer>
+		<thingClass>Projectile_Explosive</thingClass>
+		<label>projectile</label>
+		<tickerType>Normal</tickerType>
+		<useHitPoints>False</useHitPoints>
+		<neverMultiSelect>True</neverMultiSelect>
+		<graphicData>
+			<shaderType>Transparent</shaderType>
+		</graphicData>
+		<projectile>
+			<speed>5</speed>
+			<arcHeightFactor>10</arcHeightFactor>
+			<shadowSize>0.4</shadowSize>
+		</projectile>
+	</ThingDef>
+
+	
+	
+	
+	<ThingDef Name="BaseMakeableGrenade_Extinction" ParentName="BaseWeapon" Abstract="True">
+		<weaponClasses>
+			<li>Ranged</li>
+		</weaponClasses>
+		<recipeMaker>
+			<workSpeedStat>GeneralLaborSpeed</workSpeedStat>
+			<workSkill>Crafting</workSkill>
+			<skillRequirements>
+				<Crafting>20</Crafting>
+				<Melee>20</Melee>
+				<Shooting>20</Shooting>
+				<Artistic>20</Artistic>
+				<Mining>20</Mining>
+			</skillRequirements>
+			<effectWorking>Smith</effectWorking>
+			<soundWorking>Recipe_Smith</soundWorking>
+			<recipeUsers>
+				<li>CraftingSpot</li>
+			</recipeUsers>
+			<unfinishedThingDef>UnfinishedGun</unfinishedThingDef>
+			<displayPriority>1</displayPriority>
+		</recipeMaker>
+		<tradeTags>
+			<li>WeaponRanged</li>
+		</tradeTags>
+	</ThingDef>
+
+	
+	
+	<!-- ==================== Extinction ========================== -->
+
+
+	<ThingDef Name="BaseFragGrenadeProjectile_Extinction" ParentName="BaseGrenadeProjectile_Extinction" Abstract="True">
+		<thingClass>Projectile_Explosive</thingClass>
+		<graphicData>
+			<texPath>com.torodo.godlyweapons/Things/Weapons/Ranged/Extinction</texPath>
+			<graphicClass>Graphic_Single</graphicClass>
+		</graphicData>
+		<projectile>
+			<!-- The Actual Explosion Radius-->
+			<explosionRadius>50</explosionRadius >
+			<damageDef>Bomb</damageDef>
+			<!-- [ORIGINAL DEBUG MESSAGE] Use default damage from explosion def -->
+			<explosionDelay>100</explosionDelay>
+		</projectile>
+	</ThingDef>
+
+
+	<ThingDef ParentName="BaseMakeableGrenade_Extinction">
+		<defName>DEF_GODLY_Extinction</defName>
+		<label>Extinction</label>
+		<description>[...] As the Creation Swindles, so does the Meaning behind it. The Decision has been made to remove it sooner than to just let it decompose. Do not use it without Cause. (WARNING - This Grenade is -Extremely- Destructive. I would abstain using it anywhere near anything you dont want to lose - Use with Extreme Caution)</description>
+		<recipeMaker>
+			<researchPrerequisite>research_destruction</researchPrerequisite>
+		</recipeMaker>
+
+
+		<!-- [___________[Create Rarity/To make enemies not spawn/trade this Weapon]___________] -->
+		<generateCommonality>0.001</generateCommonality>
+		<!-- ??? You cant sell this and other Factions wont have it-->
+		<tradeability>None</tradeability>
+		<!-- ??? If you die/drop it gets destroyed-->
+		<destroyOnDrop>false</destroyOnDrop>
+		<tradeTags>
+			<li>DemigodFaction</li>
+		</tradeTags>
+
+
+
+		<tickerType>Normal</tickerType>
+		<graphicData>
+			<texPath>com.torodo.godlyweapons/Things/Weapons/Ranged/Extinction</texPath>
+			<graphicClass>Graphic_Single</graphicClass>
+		</graphicData>
+		<uiIconScale>2</uiIconScale>
+		<soundInteract>Interact_Grenade</soundInteract>
+		<techLevel>Industrial</techLevel>
+		<statBases>
+			<Mass>1</Mass>
+			<RangedWeapon_Cooldown>10</RangedWeapon_Cooldown>
+			<WorkToMake>1000</WorkToMake>
+			<MaxHitPoints>55555</MaxHitPoints>
+			<MarketValue>88000</MarketValue>
+			<Beauty>-50</Beauty>
+		</statBases>
+		<costList>
+			<Steel>1800</Steel>
+		</costList>
+		<weaponTags>
+			<li>GrenadeDestructive</li>
+			<li>EmpireGrenadeDestructive</li>
+		</weaponTags>
+		<thingCategories>
+			<li>Grenades</li>
+		</thingCategories>
+		<smeltable>true</smeltable>
+		<verbs>
+			<li>
+				<label>throw frag grenade</label>
+				<verbClass>Verb_LaunchProjectile</verbClass>
+				<hasStandardCommand>true</hasStandardCommand>
+				<range>999</range>
+				<forcedMissRadius>0.1</forcedMissRadius>
+				<warmupTime>3</warmupTime>
+				<noiseRadius>100</noiseRadius>
+				<ai_IsBuildingDestroyer>true</ai_IsBuildingDestroyer>
+				<soundCast>ThrowGrenade</soundCast>
+				<targetParams>
+					<canTargetLocations>true</canTargetLocations>
+				</targetParams>
+				<defaultProjectile>Proj_GrenadeFrag_Extinction</defaultProjectile>
+				<rangedFireRulepack>Combat_RangedFire_Thrown</rangedFireRulepack>
+			</li>
+		</verbs>
+		<comps>
+			<li Class="CompProperties_Explosive">
+				<explosiveRadius>1</explosiveRadius>
+				<explosiveDamageType>Bomb</explosiveDamageType>
+				<requiredDamageTypeToExplode>Flame</requiredDamageTypeToExplode>
+			</li>
+		</comps>
+
+
+
+		
+		
+	</ThingDef>
+
+	
+	
+	
+	<ThingDef ParentName="BaseFragGrenadeProjectile_Extinction">
+		<defName>Proj_GrenadeFrag_Extinction</defName>
+		<label>frag grenade</label>
+	</ThingDef>
+
+
+
+
+
+
+
+
+
+</Defs>

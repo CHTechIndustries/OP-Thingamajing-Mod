@@ -1,0 +1,83 @@
+		Version: 1.0
+
+
+
+
+	[===[Important]===]
+  Read Disclaimer Infos at the Bottom of this Description.
+
+  Generic Disclaimer:
+  use with caution / use saves
+	[===[Important]===]
+
+
+
+
+
+
+A Simple Mod that adds some OP Weapons.
+It adds a Research Tab named "Godly" where you can Research the Weapons and then Craft them on a Crafting Spot.
+
+
+
+
+
+
+[=====[Additions of this Mod]=====]
+
+[===[Weapons added]===]
+- Branch of Love
+- Lesser Bow of Death
+- Masterfull Dagger of Death
+- Pellets of Flora
+- Erasure
+- Extinction
+
+Details about the Weapons are on the Steam Workshop Page in Spoilers
+
+[===[Hediffs Added (Health Problems)===]
+- Lovestruck
+- Deity
+- Cursed - Immobile, Incapable, Meltingflesh, Senseless
+- Light Cursed - Incapable, Mobility
+- Accursed
+
+(NOTICE: Hediffs can only be given via Debug)
+(You can play around with them or simply give "Deity" to your Protagonist)
+
+Details about the Hediffs are on the Steam Workshop Page
+
+
+
+[==============[DISCLAIMER]================]
+
+> I am not a Professional Modder,
+therefore this Mod might cause issues.
+
+> This Mod was made solely for me,
+but uploaded in case anyone was interested.
+
+>This Mod is a Generic OP Mod and highly destroys
+the Balance and Immersion of the Game.
+
+>This Mod includes Weapons that can
+easily destroy your Entire Base.
+
+>This Mod uses alot of Effects/Entities/Projectiles.
+It could be that your game could Lag upon increased use.
+
+>It is Recommended to keep Saves ON.
+If you see Enemies having these Weapons,
+this is not intended.
+Its recommended to Remove the Mod
+if enemies Spawn with these Weapons
+(Since obviously you
+dont want OP Enemies.. i guess?)
+
+[==============[DISCLAIMER]================]
+
+
+
+
+
+		I hope you enjoy this Mod!

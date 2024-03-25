@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+	<TraitDef>
+		<defName>MasterOfSurvival</defName>
+		<commonality>0.001</commonality>
+		<degreeDatas>
+			<li>
+				<label>Master of Survival</label>
+				<description>
+					A Person who has been trough the Worst. By that its meant trough Trials of Demons and Gods. They Survived it all due to their Sheer Willpower, thus they can survive on little Sleep , 
+					Eat Quickly and be less likely Afflicted from Food Poisoning
+				</description>
+				<statOffsets>
+
+					<EatingSpeed>1.0</EatingSpeed>
+					<RestRateMultiplier>2.0</RestRateMultiplier>
+					<MentalBreakThreshold>-0.3</MentalBreakThreshold>
+					<PainShockThreshold>0.2</PainShockThreshold>
+
+					<ComfyTemperatureMax>20</ComfyTemperatureMax>
+					<ComfyTemperatureMin>-5</ComfyTemperatureMin>
+
+					<FoodPoisonChance>-0.75</FoodPoisonChance>
+					<ImmunityGainSpeed>1.5</ImmunityGainSpeed>
+					<ToxicResistance>1.0</ToxicResistance>
+					<ToxicEnvironmentResistance>2.0</ToxicEnvironmentResistance>
+
+					<CookSpeed>0.25</CookSpeed>
+
+
+				</statOffsets>
+
+
+
+
+			</li>
+		</degreeDatas>
+	</TraitDef>
+</Defs>

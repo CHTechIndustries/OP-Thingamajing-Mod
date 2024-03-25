@@ -1,0 +1,105 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<!-- My first Weapon - A OP Test Weapon to figure Def's and Tags out-->
+
+
+<Defs>
+
+	<ThingDef ParentName="BaseMeleeWeapon">
+		<defName>DEF_GODLY_DaggerOfDeath</defName>
+		<label>Masterfull Dagger of Death</label>
+		<description>A Dagger which gives swift Death to any who touch it, made in search of a way to defeat Demigods from the Masters.. with no Success. They might not be strong enough for Demigods, but Mere Mortals have no chance of Survival against it.</description>
+		<possessionCount>1</possessionCount>
+		
+		<!-- Graphic Settings-->
+		<graphicData>
+			<texPath>com.torodo.godlyweapons/Things/Weapons/Melee/DaggerOfDeath</texPath>
+			<graphicClass>Graphic_Single</graphicClass>
+		</graphicData>
+		<uiIconScale>1.1</uiIconScale>
+
+
+		<!-- [___________[Create Rarity/To make enemies not spawn/trade this Weapon]___________] -->
+		<generateCommonality>0.001</generateCommonality>
+		<!-- ??? You cant sell this and other Factions wont have it-->
+		<tradeability>None</tradeability>
+		<!-- ??? If you die/drop it gets destroyed-->
+		<destroyOnDrop>false</destroyOnDrop>
+		<tradeTags>
+			<li>DemigodFaction</li>
+		</tradeTags>
+
+
+
+		<!-- How to make it-->
+
+		<costStuffCount>220</costStuffCount>
+		<statBases>
+			<MaxHitPoints>15000</MaxHitPoints>
+			<MarketValue>15000</MarketValue>
+			<Mass>1.1</Mass>
+			<Flammability>0.0</Flammability>
+			<WorkToMake>250</WorkToMake>
+			<Beauty>110</Beauty>
+		</statBases>
+		<equippedAngleOffset>-65</equippedAngleOffset>
+		<recipeMaker>
+			<recipeUsers>
+				<li>CraftingSpot</li>
+			</recipeUsers>
+			<researchPrerequisite>research_demigodWeapons</researchPrerequisite>
+			<skillRequirements>
+				<Melee>12</Melee>
+				<Crafting>8</Crafting>
+			</skillRequirements>
+			<displayPriority>10</displayPriority>
+		</recipeMaker>
+		<stuffCategories>
+			<li>Metallic</li>
+			<li>Stony</li>
+			<!-- <li>Leathery</li> -->
+			<li>Woody</li>
+			<!-- <li>Fabric</li> -->
+		</stuffCategories>
+		
+		
+		<!-- What Kind of Weapon is it?-->
+		<weaponTags>
+			<li>MedievalMeleeDecent</li>
+		</weaponTags>
+
+		<techLevel>Medieval</techLevel>
+		
+		<weaponClasses>
+			<li>Melee</li>
+		</weaponClasses>
+		
+		
+		
+		<!-- What kind of Attacks can it do-->
+		<tools>
+			<li>
+				<label>tip</label>
+				<labelUsedInLogging>true</labelUsedInLogging>
+				<capacities>
+					<li>Poke</li>
+				</capacities>
+				<power>690</power>
+				<cooldownTime>0.45</cooldownTime>
+			</li>
+			<li>
+				<label>edge</label>
+				<labelUsedInLogging>true</labelUsedInLogging>
+				<capacities>
+					<li>Cut</li>
+				</capacities>
+				<power>420</power>
+				<cooldownTime>0.01</cooldownTime>
+			</li>
+		</tools>
+		
+
+
+	</ThingDef>
+
+</Defs>

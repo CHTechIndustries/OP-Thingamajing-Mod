@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+	
+	<!-- IMPORTANT INFORMATION: This DamageDef Exists but is never Used Ingame. It stays as a Placeholder/Template-->
+
+	<!-- [[[===========================[Damage Def - Lovestruck]================================]]] -->
+
+
+	<DamageDef>
+		<defName>dmgDef_ShotLove</defName>
+		<label>love shot</label>
+		<!-- This is in the Works, it doesnt work though <workerClass>Torodo.GodlyWeapons.CleanClothesWorker</workerClass> -->
+		<externalViolence>true</externalViolence>
+		<deathMessage>{0} ís loving so much, their heart Stopped.</deathMessage>
+		<hediff>Gunshot</hediff>
+		<hediffSolid>Gunshot</hediffSolid>
+		<harmAllLayersUntilOutside>false</harmAllLayersUntilOutside>
+		<additionalHediffs>
+			<li>
+				<hediff>hediff_godly_lovestruck</hediff>
+				<severityPerDamageDealt>100.000</severityPerDamageDealt>
+			</li>
+		</additionalHediffs>
+		<impactSoundType>Bullet</impactSoundType>
+		<armorCategory>Sharp</armorCategory>
+		<overkillPctToDestroyPart>0~0.7</overkillPctToDestroyPart>
+		<isRanged>true</isRanged>
+		<makesAnimalsFlee>true</makesAnimalsFlee>
+		
+		
+		
+	</DamageDef>
+	
+	
+	
+
+
+</Defs>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<Defs>
+	
+	<!-- IMPORTANT INFORMATION: This Thought Exists ingame but there is no way to apply it. Stays for now for later Purposes.-->
+	
+	
+	<ThoughtDef>
+		<defName>DEF_THOUGHT_Lovestruck</defName>
+
+		<!-- ?: These Traits Nullify this Thought and give it +/- 0 Mood / Set it to 0-->
+		<nullifyingTraits>
+		 <li>Deity</li>
+		</nullifyingTraits>
+		
+		
+		<stages>
+			<li>
+				<label>extremely in love</label>
+				<description>Ah i cant stop thinking about them.. them... that.. aahhh..</description>
+				<baseMoodEffect>25</baseMoodEffect>
+			</li>
+			<li>
+				<label>clarity of action</label>
+				<description>Ive been blinded by love and being useless to everyone.. what have i been doing?</description>
+				<baseMoodEffect>-4</baseMoodEffect>
+			</li>
+
+		</stages>
+
+
+	
+	
+	</ThoughtDef>
+	
+	
+</Defs>
