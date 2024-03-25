@@ -1,0 +1,99 @@
+Version: 1.0
+
+Important
+Read the Disclaimer Infos at the Bottom of this Description.
+
+Generic Disclaimer:
+use with caution / use saves
+Important
+
+________________Godly Weapons________________
+
+A Simple Mod that adds some OP Weapons.
+It adds a Research Tab named "Godly" where you can Research the Weapons and then Craft them on a Crafting Spot.
+it is Very Expensive to Research, but because these Weapons are OP I thought it could "balance" it at least a bit. If you want to skip this Step just enable Debug and Skip the Research.
+
+Additions of this Mod
+
+Weapons added (6)
+
+- Branch of Love
+
+
+- Lesser Bow of Death
+
+
+- Masterfull Dagger of Death
+
+
+- Pellets of Flora
+
+
+- Erasure
+
+
+- Extinction
+
+
+
+
+Hediffs Added (Health Problems) (9)
+- Lovestruck
+(Initially Planned to be given when hit by the Branch of Love but i couldnt figure out how to give a Hediff by a Projectile Hit, therefore the Branch of Love has been adjusted to be different than what i had in mind)
+
+
+- Deity
+
+
+- Cursed - Immobile, Incapable, Meltingflesh, Senseless
+
+
+- Light Cursed - Incapable, Mobility
+
+
+- Accursed
+
+
+
+
+(NOTICE: Hediffs can only be given via Debug)
+(You can play around with them or simply give "Deity" to your Protagonist)
+
+
+Hediffs were a thought of mine to be added via Various weapons and Items, but i got too motivated with the Idea Phase and couldnt do it in the Scripting phase, but i still wanted to add them because of reasons.
+They are not given by any Weapon or Trigger, so they are only used for Playtroughs that have intentions on "Roleplaying" or such
+(maybe in the Future ill get behind it again and try to make it work)
+
+
+DISCLAIMER
+
+> I am not a Professional Modder,
+therefore this Mod might cause issues.
+
+> This Mod was made solely for me,
+but uploaded in case anyone was interested.
+
+>This Mod is a Generic OP Mod and highly destroys
+the Balance and Immersion of the Game.
+
+>This Mod includes Weapons that can
+easily destroy your Entire Base.
+
+>This Mod uses alot of Effects/Entities/Projectiles.
+It could be that your game could Lag upon increased use.
+
+>It is Recommended to keep Saves ON.
+If you see Enemies having these Weapons,
+this is not intended.
+Its recommended to Remove the Mod
+if enemies Spawn with these Weapons
+(Since obviously you
+dont want OP Enemies.. i guess?)
+
+DISCLAIMER
+
+
+
+
+
+I hope you enjoy this Mod!

@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <ModMetaData>
-	<name>OP Thingamagig Mod</name> 
+	<name>OP Thingamajing Mod</name> 
 	<author>CHTech, Torodo</author>
 	<packageId>chtech.opThings.Pack</packageId> 
 	<url>https://github.com/CHTechIndustries/OP-Thingamajing-Mod/wiki</url>
@@ -36,7 +36,17 @@ A: Uh... sure. There might be "unintented features" that we can't guarentee to f
 			<steamWorkshopUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=2009463077</steamWorkshopUrl>
 			<downloadUrl>https://github.com/pardeike/HarmonyRimWorld/</downloadUrl>
 		</li>
-		
+		<li>
+			<packageId>m00nl1ght.unofficialupdates.hugslogpublisher</packageId>
+			<displayName>Log Publisher from HugsLib</displayName>
+			<steamWorkshopUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=2873415404</steamWorkshopUrl>
+		</li>
+		<li>
+			<packageId>imranfish.xmlextensions</packageId>
+			<displayName>XML Extensions</displayName>
+			<downloadUrl>https://github.com/15adhami/XmlExtensions/releases</downloadUrl>
+			<steamWorkshopUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=2574315206</steamWorkshopUrl>
+		</li>
 	</modDependencies>
 	<loadAfter>
 		<li>chtech.devorder</li>

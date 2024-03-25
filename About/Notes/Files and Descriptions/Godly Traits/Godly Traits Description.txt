@@ -1,0 +1,77 @@
+Version: 1.2
+
+
+=DISCLAIMER=
+This Mod was made just for me, but I Uploaded it in Case anyone would be Interested in a Generic OP Trait Mod.
+I am not Responsible for any Corruptions or Broken things.
+Use at your own Risk
+(Its my First Mod and it should work but still use Caution, dont wanna Bork your Game up)
+=DISCLAIMER=
+
+
+Adds Multiple Basically OP Traits.
+They are so Rare that they have to be
+given Manually via Debug or other Mods
+that can give/take Traits.
+
+Theres 3 "Severity's" of the Trait
+Master - Way stronger than normal Traits but still within Reasoning.. in a way
+Demigod - 4x~ Stronger than Master - Powerfull
+God - 100x~ Stronger than Demigod - basically OP
+
+
+> Use Prepare Carefully or Character Editor
+to give your Pawns these Traits
+(This is a Recommendation, not a need)
+(I am not affiliated with them but their Mods are very nice and Powerfull - Check them out)
+
+
+
+
+
+Full Trait List
+
+
+Master/Demigod/God of Speed
+- Increases Move Speed and Global Work Speed
+
+Master/Demigod/God of Intelligence
+- Increases Global Learning Factor
+
+Master/Demigod/God of Protection
+- Increases "Toughness", giving you More Health, reducing Damage Taken, Rest and Food Times decreased, Mental Break and Pain Shock lowered, Temperature Resistance, Surgery Success Rate, Food Poison Chance Decreased, Immunity Gain Increased, Toxic and Toxic Envoirnment Resistance
+
+Demigod of Death
+- +12 Levels in Shooting and Melee, aswell as 999% Melee and Shooting HitChance/Accuracy
+
+Master of Nutrition
+- Increases Eating Speed, Rest Time, Slightly Mental Threshold decrease, Slight Temperature Tolerance, Negates Food Poison Chance, High Foraged Nutrition Rate, 5x Faster Cooking
+
+Master of Sanity
+- Mental Break Threshold -0.62
+
+Master of Survival
+- Eating & Resting Speed increased, Mental and Pain Threshold Decreased, Slight Temperature Resistance, Food Poison Resistance, Fast Immunity Gain, Toxic and Toxic Envoirnment Resistance, slight Cooking Speed increase
+
+Master of Temperature
+- Strong Temperature Tolerance
+
+Protagonist
+- All Stats basically strongly Increased to your Favor
+
+Deity
+- Godmode
+
+Cursed of Speed
+
+
+Cursed of Intelligence
+
+
+Accursed Being
+- You've met with a terrible Fate haven't you? (If you like Torturing Pawns, give them this Trait)
+
+
+
+I hope you found what you searched for
+and have fun with it!
