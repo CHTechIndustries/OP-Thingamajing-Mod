@@ -2,7 +2,7 @@
 <ModMetaData>
 	<name>OP Thingamagig Mod</name> 
 	<author>CHTech, Torodo</author>
-	<packageId>chtech.opPack</packageId> 
+	<packageId>chtech.opThings.Pack</packageId> 
 	<url>https://github.com/CHTechIndustries/OP-Thingamajing-Mod/wiki</url>
 	<modVersion>1.0.0</modVersion>
 	<supportedVersions>
@@ -29,6 +29,14 @@ A: Uh... sure. There might be "unintented features" that we can't guarentee to f
 			<steamWorkshopUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=3097014712</steamWorkshopUrl>
 			<downloadUrl>https://github.com/CHTechIndustries/</downloadUrl>
 		</li> -->
+		
+		<li>
+			<packageId>brrainz.harmony</packageId>
+			<displayName>Harmony</displayName>
+			<steamWorkshopUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=2009463077</steamWorkshopUrl>
+			<downloadUrl>https://github.com/pardeike/HarmonyRimWorld/</downloadUrl>
+		</li>
+		
 	</modDependencies>
 	<loadAfter>
 		<li>chtech.devorder</li>
