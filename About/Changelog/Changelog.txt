@@ -1,1 +1,5 @@
-put changelog text here
+1.0.0
+
+Added and merged Godly Traits and Godly Weapons
+Re-Wrote Description
+Made for 1.5 (note: 1.5 fixes will come out after 1.5. Use at your own risck)
