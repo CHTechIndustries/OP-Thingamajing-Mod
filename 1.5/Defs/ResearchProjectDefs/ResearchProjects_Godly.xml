@@ -1,0 +1,88 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+
+	<!-- Note to self: Need to make one for Master Items and more depending how and when I would make a Specialized Mod-->
+	<!--=============================== Tier 1: Test ===================================-->
+
+	<!--===== Column 1 Row 1 ====-->
+
+
+	<ResearchProjectDef>
+		<tab>Godly</tab>
+		<defName>research_godlyStart</defName>
+		<label>Path of Ascention</label>
+		<!-- Description will be shown once you completed the Research of it in the Pop up Window AND inside the Researcg Window under the Label-->
+		<description>The Path of Knowledge starts here. This will open your Eyes to the things not seen by Mortals, but beware as this will warp the Reality you once knew.</description>
+		<baseCost>1000</baseCost>
+		<techLevel>Neolithic</techLevel>
+		<tags>
+			<li>TribalStart</li>
+		</tags>
+		<researchViewX>0.00</researchViewX>
+		<researchViewY>0.00</researchViewY>
+	</ResearchProjectDef>
+
+	<!--===== Column 2 Row 1 ====-->
+	
+	
+	<ResearchProjectDef>
+		<tab>Godly</tab>
+		<defName>research_demigodWeapons</defName>
+		<label>Demigod Weapons</label>
+		<!-- Description will be shown once you completed the Research of it in the Pop up Window AND inside the Researcg Window under the Label-->
+		<description>The Demigods wielded these Weapons. Crafted with the Willpower of the Ancients, one must Hone their Craft to even comprehend them.</description>
+		<baseCost>25000</baseCost>
+		<techLevel>Neolithic</techLevel>
+		<prerequisites>
+			<li>research_godlyStart</li>
+		</prerequisites>
+		<tags>
+			<li>TribalStart</li>
+		</tags>
+		<researchViewX>0.00</researchViewX>
+		<researchViewY>1.00</researchViewY>
+	</ResearchProjectDef>
+
+	<!--===== Column 2 Row 2 ====-->
+
+	<ResearchProjectDef>
+		<tab>Godly</tab>
+		<defName>research_godlyWeapons</defName>
+		<label>Godly Weapons</label>
+		<description>Tools you didnt even know existed. Something like a Plaything for the Gods perhaps?</description>
+		<baseCost>10000</baseCost>
+		<techLevel>Neolithic</techLevel>
+		<prerequisites>
+			<li>research_demigodWeapons</li>
+		</prerequisites>
+		<tags>
+			<li>TribalStart</li>
+		</tags>
+
+		<researchViewX>1.00</researchViewX>
+		<researchViewY>1.00</researchViewY>
+	</ResearchProjectDef>
+
+	<!--===== Column 5 Row 5 ====-->
+	
+	
+	<ResearchProjectDef>
+		<tab>Godly</tab>
+		<defName>research_destruction</defName>
+		<label>Destruction.</label>
+		<description>The Deity of this World has chosen to Reduce that what they Created. This is their Tool.</description>
+		<baseCost>99999</baseCost>
+		<techLevel>Neolithic</techLevel>
+
+		<prerequisites>
+			<li>research_godlyWeapons</li>
+		</prerequisites>
+
+		<researchViewX>4.00</researchViewX>
+		<researchViewY>4.00</researchViewY>
+	</ResearchProjectDef>
+	
+	
+	
+	
+</Defs>

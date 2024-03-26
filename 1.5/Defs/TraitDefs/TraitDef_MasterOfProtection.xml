@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+	<TraitDef>
+		<defName>MasterOfProtection</defName>
+		<commonality>0.001</commonality>
+		<degreeDatas>
+			<li>
+				<label>Master of Protection</label>
+				<description>A Blessing of the Gods, keeping you alive even trough the worst of things</description>
+				<statOffsets>
+					
+					<IncomingDamageFactor>-0.5</IncomingDamageFactor>
+					<MaxHitPoints>5000.0</MaxHitPoints>
+					
+					<RestRateMultiplier>0.50</RestRateMultiplier>
+					<EatingSpeed>0.25</EatingSpeed>
+
+					<MentalBreakThreshold>-0.2</MentalBreakThreshold>
+					<PainShockThreshold>0.2</PainShockThreshold>
+
+
+					<ComfyTemperatureMax>15</ComfyTemperatureMax>
+					<ComfyTemperatureMin>-10</ComfyTemperatureMin>
+
+					<SurgerySuccessChanceFactor>0.5</SurgerySuccessChanceFactor>
+
+					<FoodPoisonChance>-0.2</FoodPoisonChance>
+					<ImmunityGainSpeed>0.5</ImmunityGainSpeed>
+					<ToxicResistance>1.5</ToxicResistance>
+					<ToxicEnvironmentResistance>2</ToxicEnvironmentResistance>
+
+
+					
+				</statOffsets>
+			</li>
+		</degreeDatas>
+	</TraitDef>
+</Defs>
