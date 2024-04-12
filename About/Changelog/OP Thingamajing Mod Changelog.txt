@@ -1,0 +1,6 @@
+1.0.0
+
+Added and merged Godly Traits and Godly Weapons
+Re-Wrote Description
+Updated to 1.5
+added in placeholder folders for new features coming soon (TM)
