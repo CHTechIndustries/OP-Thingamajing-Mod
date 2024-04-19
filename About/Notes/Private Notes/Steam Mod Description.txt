@@ -1,1 +1,31 @@
-Put full direct-workshop (what you see on the front page) text here
+Okay, this is a nice little mod is primarily a port [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3020604219]Godly Traits[/url] and [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3025145795]Godly Weapons[/url], which are 2 great mods by [url=https://steamcommunity.com/profiles/76561198062670691/]Torodo[/url]. Alas, due to life (and a side effect of what makes these mods so good), they might not be updated, and if they are, it will be a while. So, I asked if I could port them, and, well, here we are!
+
+If you want more information on the content so far, you should definitly look at those two pages, as the descriptions are quite nice imo (granted, if you read my descriptions, you'll realize that's not a high bar)
+
+Now, due to how I ported it, the current content has the same ID's (the mod ID changed as I combined 2 mods into 1), so there will be some issues if used together. (only an issue in 1.4, as the whole point was to update this past 1.4) So, I marked it as incompatible.
+
+Now, as of the moment, it adds in 3 teirs of traits with drastic buffs (1 for each stat), a few that buff them all, and a couple miscilaneus. There are also 6 super-powerful weapons, including Erasure, Extinction, Pellets of Flora, and more!
+
+However, for more information, check the content page of the wiki! [url=https://github.com/CHTechIndustries/OP-Thingamajing-Mod/wiki/Contents]Which is Here[/url] (A less in depth discussion version is here: [url=https://steamcommunity.com/workshop/filedetails/discussion/3227001441/4368004299239406305/]Features Summary and Questions[/url]. Also a good place for questions)
+
+So, I bet you are wondering what the plans for the future are. Well, it started as a 1-1 port. Then, I started thinking of ideas for what could go in. So, there's those ideas. Then, I realized, most of my tests to see if something works is to make an OP version that's more noticible. So, if that's the case, how 'bout I include them!
+
+So, it's gone from a direct port, to a port and updates, to me putting my half-baked, OP ideas in. That means you'll get to see things I made that make no sense. Yeah, that animals free meat, it wasn't me trying to make it teleport and failing ;)
+And, if you have any ideas, do feel free to put them in the [url=https://steamcommunity.com/workshop/filedetails/discussion/3227001441/4368004299239409300/]Feature Sugesstions[/url] discussion!
+
+FAQ:
+
+[olist]
+[*]Q: Is this Combat Extended compatible?
+A: Uh... sure. There might be "unintented features" (especially as more code is added) that we can't guarentee to fix, but you do you and all!
+[*]Q: I see there's a "feature discussion" and "question" discussion. Does that mean we shouldn't ask questions/ make suggestions in the main comments?
+A: Not at all! The discussions are so it's easier to do longer discussions, so people can know who I'm replying too, not to mention I'm more likley to read every comment in them, whereas I might, after a while, just skim the comments. Basically, it just makes a response quicker
+[*]Q: Is it stable?
+A: Somewhat, but unlike my other mods, stability isn't a priority. So, use at your own risck!
+[*]Q: Use at your own risck? Does that mean you won't fix bugs?
+A: No, it just means we won't bug check as much, and this mod isn't going to be prioritized for bugfixes (besides critical "always crashes")
+[*]Q: Will updates be common?
+A: Probally not, this mod will get updated when an idea hits me, and/ or I have a test to do (in which case you get an OP test result)
+[*]Why is this FAQ shorter they on your other mods?
+A: No idea. Seriously. I feel like I forgot something
+[/olist]

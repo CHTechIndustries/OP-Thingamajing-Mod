@@ -4,21 +4,36 @@
 	<author>CHTech, Torodo</author>
 	<packageId>chtech.opThings.Pack</packageId> 
 	<url>https://github.com/CHTechIndustries/OP-Thingamajing-Mod/wiki</url>
-	<modVersion>1.0.0</modVersion>
+	<modVersion>1.2.0</modVersion>
 	<supportedVersions>
 		<li>1.4</li>
 		<li>1.5</li>
 	</supportedVersions>
-	<description>A colletion of OP items, first forked from Godly Traits and Godly Weapons by Torodo, then grown over time
+	<description>This mod started as being a colletion of OP items, forked from the 2 following mods: Godly Traits and Godly Weapons (both by Torodo). Then, I started to come up with ideas and features to add, so it became more than it was. by Torodo, then grown over time.
+At first, it was just a bunch of OP items, but as I came up with more ideas, I realized something: this mod is kinda a mod for me to take a break from making things that make sense, and just go "why not!". That also means it's great for expirmenting, as if something doesn't do what I want, I can easily shift it to being OP
 
-~~~Frequently asked questions. The bellow ones are used in almost all the mods, so they are included
-FAQ
-Q: 1.5?
-A: It's there, might not work. when released, all errors for 1.5 will be fixed
+Do note, due to the pourpuse of this mod, neither me nor Torodo are responsible for damaged files (see the following disclaimer for more):
+=DISCLAIMER=
+
+1. As this mod is built around OP features and expirmental concepts, it is inately less stable. We are not responsible for corruptions and broken saves. Still do send the bug reports, so we can all learn, and improve this (and the other) mods!
+2. this mod is designed to be OP. It completly destroys balance and immersion. That's kinda the point...
+3. this mod contains weapons and items that can destroy your base. Backups are recommended
+4. backups are recommended
+ 
+=DISCLAIMER=
+
+FAQ:
+
+Q: Should I backup my saves?
+A: yes
+	Q: You sure?
+	A: Positive
+
+Q: Why does this mod have a disclaimer?
+A: Twofoled. Firstly, due to the features and methodolgy of this mod, it is inherenly more likley to cause issues for your world. Secondly, the mods that this one is based around had a disclaimer, so keeping in the spirit of mod porting...
 
 Q: CE Compatible?
 A: Uh... sure. There might be "unintented features" that we can't guarentee to fix, but you do you and all!
-
 </description>
 
 	<modDependencies>
@@ -37,6 +52,12 @@ A: Uh... sure. There might be "unintented features" that we can't guarentee to f
 			<downloadUrl>https://github.com/pardeike/HarmonyRimWorld/</downloadUrl>
 		</li>
 		<li>
+			<packageId>OskarPotocki.VanillaFactionsExpanded.Core</packageId>
+			<displayName>Vanilla Expanded Framework</displayName>
+			<steamWorkshopUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=2023507013</steamWorkshopUrl>
+			<downloadUrl>https://github.com/Vanilla-Expanded/VanillaExpandedFramework</downloadUrl>
+		</li>
+		<li>
 			<packageId>m00nl1ght.unofficialupdates.hugslogpublisher</packageId>
 			<displayName>Log Publisher from HugsLib</displayName>
 			<steamWorkshopUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=2873415404</steamWorkshopUrl>
@@ -50,7 +71,11 @@ A: Uh... sure. There might be "unintented features" that we can't guarentee to f
 	</modDependencies>
 	<loadAfter>
 		<li>chtech.devorder</li>
-		<li>chtech.core</li>
+		<li>ludeon.rimworld</li>
+		<li>ludeon.rimworld.royalty</li>
+		<li>ludeon.rimworld.ideology</li>
+		<li>ludeon.rimworld.biotech</li>
+		<li>ludeon.rimworld.anomaly</li>
 	</loadAfter>
 	<loadBefore>
 		<li>gege.exportedxenotypestoragemodfolder</li>
