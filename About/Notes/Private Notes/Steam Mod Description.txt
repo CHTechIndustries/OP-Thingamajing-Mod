@@ -24,8 +24,12 @@ A: Not at all! The discussions are so it's easier to do longer discussions, so p
 A: Somewhat, but unlike my other mods, stability isn't a priority. So, use at your own risck!
 [*]Q: Use at your own risck? Does that mean you won't fix bugs?
 A: No, it just means we won't bug check as much, and this mod isn't going to be prioritized for bugfixes (besides critical "always crashes")
+[*]Q: If I have a bug, how do I report it?
+A: Use either [url=https://steamcommunity.com/sharedfiles/filedetails/?id=818773962]Hugs Lib[/url] or [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2873415404]Log Publisher from Hugs Lib[/url]. The first one is a library, the second one was made in 1.4 when Hugs Lib's log publisher didin't work. Either is fine
 [*]Q: Will updates be common?
 A: Probally not, this mod will get updated when an idea hits me, and/ or I have a test to do (in which case you get an OP test result)
 [*]Why is this FAQ shorter they on your other mods?
 A: No idea. Seriously. I feel like I forgot something
 [/olist]
+
+P.S. [b]REMEMBER TO BACKUP WORLDS[/b]
