@@ -9,3 +9,11 @@ added in placeholder folders for new features coming soon (TM)
 finished description
 added some important discussions
 removed log publisher as requirment, as it's not truly necessary, and I found out was a bit confusing
+
+1.2.2
+improved loadorder
+improved description
+improved file structure
+removed extraneus lines from About file
+added branchlog
+added "recommended unlimiter mods"
