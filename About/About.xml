@@ -37,13 +37,6 @@ A: Uh... sure. There might be "unintented features" that we can't guarentee to f
 </description>
 
 	<modDependencies>
-
-			<!-- <li>
-			<packageId>chtech.core</packageId>
-			<displayName>CHTechIndustries Core</displayName>
-			<steamWorkshopUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=3097014712</steamWorkshopUrl>
-			<downloadUrl>https://github.com/CHTechIndustries/</downloadUrl>
-		</li> -->
 		
 		<li>
 			<packageId>brrainz.harmony</packageId>
@@ -71,10 +64,12 @@ A: Uh... sure. There might be "unintented features" that we can't guarentee to f
 		<li>ludeon.rimworld.ideology</li>
 		<li>ludeon.rimworld.biotech</li>
 		<li>ludeon.rimworld.anomaly</li>
-		
-		<!-- mods to help with improveing limits -->
+
 		<li>chtech.core</li> <!-- contains some miscelaneus patches, makes tweaksgalore default to better setup -->
-		<li>neronix17.tweaksgalore</li> <!-- allows for manjor tweaks and such, highly recommended, can replace the next three. Only reason it's not required is this mod is designed to have very few non-frameworks required -->
+		<li>neronix17.tweaksgalore</li> <!-- allows for manjor tweaks and such, highly recommended, can replace the next three. Only reason it's not required is this mod is designed to have very few non-frameworks required -->		
+		<li>neronix17.toolbox</li>
+
+		<!-- can replace tweaksgalore, but isn't anywhere near as good -->
 		<li>grimm.unlimited</li> <!-- (currenly) not fully version compatible, still works. Unlimits all, except, strangely, armour -->
 		<li>paragon.hanul.unlimitedarmor</li> <!-- updated to this version, unlimits armour -->
 		<li>jdalt.nomorelethaldamagethreshold</li> <!-- removes the lethal damage threshold. Tweaks Galore can do this too, so, just use that one. But, you know, just in case... -->
