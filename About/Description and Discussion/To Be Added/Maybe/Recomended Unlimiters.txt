@@ -1,0 +1,6 @@
+So, one thing that's annoying is Rimworld adds all sorts of annoying caps to values, to prevent "extreme" buffs. Luckilly, there are mods for bypassing it. The (in my opinion) best one is [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2695164414]Tweaks Galore[/url], but there are alternitives.
+
+[olist]
+[*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=2695164414]Tweaks Galore[/url]
+This mod has many, [i]many[/i] tweaks. If you install [url=https://steamcommunity.com/sharedfiles/filedetails/?id=1660622094]Tabula Rasa
+[/url]
