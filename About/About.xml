@@ -4,7 +4,7 @@
 	<author>CHTech, Torodo</author>
 	<packageId>chtech.opThings.Pack</packageId> 
 	<url>https://github.com/CHTechIndustries/OP-Thingamajing-Mod/wiki</url>
-	<modVersion>1.2.2</modVersion>
+	<modVersion>1.2.3</modVersion>
 	<supportedVersions>
 		<li>1.4</li>
 		<li>1.5</li>
@@ -68,6 +68,8 @@ A: Uh... sure. There might be "unintented features" that we can't guarentee to f
 		<li>chtech.core</li> <!-- contains some miscelaneus patches, makes tweaksgalore default to better setup -->
 		<li>neronix17.tweaksgalore</li> <!-- allows for manjor tweaks and such, highly recommended, can replace the next three. Only reason it's not required is this mod is designed to have very few non-frameworks required -->		
 		<li>neronix17.toolbox</li>
+		
+		<li>zyro.ununlimited</li>
 
 		<!-- can replace tweaksgalore, but isn't anywhere near as good -->
 		<li>grimm.unlimited</li> <!-- (currenly) not fully version compatible, still works. Unlimits all, except, strangely, armour -->
