@@ -20,3 +20,5 @@ added "recommended unlimiter mods"
 
 1.2.3
 added un-un-limmited to load order
+added a tabula-rasa based changelog, made an optional compat (if you have my core, the core will require that mod)
+made What's That Mod load bellow this in load order

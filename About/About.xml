@@ -34,6 +34,8 @@ A: Twofoled. Firstly, due to the features and methodolgy of this mod, it is inhe
 
 Q: CE Compatible?
 A: Uh... sure. There might be "unintented features" that we can't guarentee to fix, but you do you and all!
+
+P.S. if you install Tabula Rausa, there will be an in-game changelog!
 </description>
 
 	<modDependencies>
@@ -79,6 +81,7 @@ A: Uh... sure. There might be "unintented features" that we can't guarentee to f
 	<loadBefore>
 		<li>gege.exportedxenotypestoragemodfolder</li>
 		<li>smashphil.xmlpatchhelper</li>
+		<li>co.uk.epicguru.whatsthatmod</li>
 	</loadBefore>
 	<incompatibleWith>
 		<li>com.torodo.godlyweapons</li>
