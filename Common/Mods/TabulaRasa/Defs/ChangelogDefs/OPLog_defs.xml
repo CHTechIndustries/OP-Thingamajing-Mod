@@ -33,8 +33,8 @@ notes:
 
 <!-- version 1.2.0 -->
 	<TabulaRasa.UpdateDef>
-		<defName>CHTech_opThings_yyymmdd</defName>
-		<date>yyyy/mm/dd</date>
+		<defName>CHTech_opThings_20240419</defName>
+		<date>2024/04/19</date>
 		<banner />
 		<contentList>
 			<li>
@@ -49,20 +49,20 @@ added in placeholder folders for new features coming soon (TM)
 		<links>
 			<li>
 				<linkLabel>Steam Workshop</linkLabel>
-				<linkUrl>Workshop Link</linkUrl>
+				<linkUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=3227001441</linkUrl>
 				<linkTex>TabulaRasa/UI/Steam</linkTex>
 			</li>
 			<li>
 				<linkLabel>GitHub</linkLabel>
-				<linkUrl>Github Link</linkUrl>
+				<linkUrl>https://github.com/CHTechIndustries/OP-Thingamajing-Mod</linkUrl>
 				<linkTex>TabulaRasa/UI/GitHub</linkTex>
 			</li>
 		</links>
 	</TabulaRasa.UpdateDef>
 <!-- version 1.2.1 -->
 	<TabulaRasa.UpdateDef>
-		<defName>CHTech_opThings_yyymmdd</defName>
-		<date>yyyy/mm/dd</date>
+		<defName>CHTech_opThings_20240425</defName>
+		<date>2024/04/25</date>
 		<banner />
 		<contentList>
 			<li>
@@ -76,20 +76,20 @@ removed log publisher as a reqrirment as it was doing nothing but causing confus
 		<links>
 			<li>
 				<linkLabel>Steam Workshop</linkLabel>
-				<linkUrl>Workshop Link</linkUrl>
+				<linkUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=3227001441</linkUrl>
 				<linkTex>TabulaRasa/UI/Steam</linkTex>
 			</li>
 			<li>
 				<linkLabel>GitHub</linkLabel>
-				<linkUrl>Github Link</linkUrl>
+				<linkUrl>https://github.com/CHTechIndustries/OP-Thingamajing-Mod</linkUrl>
 				<linkTex>TabulaRasa/UI/GitHub</linkTex>
 			</li>
 		</links>
 	</TabulaRasa.UpdateDef>
 <!-- version 1.2.2 -->
 	<TabulaRasa.UpdateDef>
-		<defName>CHTech_opThings_yyymmdd</defName>
-		<date>yyyy/mm/dd</date>
+		<defName>CHTech_opThings_20240426</defName>
+		<date>2024/04/06</date>
 		<banner />
 		<contentList>
 			<li>
@@ -106,20 +106,20 @@ added a "recommended unlimiter mods" section
 		<links>
 			<li>
 				<linkLabel>Steam Workshop</linkLabel>
-				<linkUrl>Workshop Link</linkUrl>
+				<linkUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=3227001441</linkUrl>
 				<linkTex>TabulaRasa/UI/Steam</linkTex>
 			</li>
 			<li>
 				<linkLabel>GitHub</linkLabel>
-				<linkUrl>Github Link</linkUrl>
+				<linkUrl>https://github.com/CHTechIndustries/OP-Thingamajing-Mod</linkUrl>
 				<linkTex>TabulaRasa/UI/GitHub</linkTex>
 			</li>
 		</links>
 	</TabulaRasa.UpdateDef>
 <!-- version 1.2.3 -->
 	<TabulaRasa.UpdateDef>
-		<defName>CHTech_opThings_yyymmdd</defName>
-		<date>yyyy/mm/dd</date>
+		<defName>CHTech_opThings_20240517</defName>
+		<date>2024/05/17</date>
 		<banner />
 		<contentList>
 			<li>
@@ -133,12 +133,12 @@ made What's That Mod load bellow this in the load order
 		<links>
 			<li>
 				<linkLabel>Steam Workshop</linkLabel>
-				<linkUrl>Workshop Link</linkUrl>
+				<linkUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=3227001441</linkUrl>
 				<linkTex>TabulaRasa/UI/Steam</linkTex>
 			</li>
 			<li>
 				<linkLabel>GitHub</linkLabel>
-				<linkUrl>Github Link</linkUrl>
+				<linkUrl>https://github.com/CHTechIndustries/OP-Thingamajing-Mod</linkUrl>
 				<linkTex>TabulaRasa/UI/GitHub</linkTex>
 			</li>
 		</links>
