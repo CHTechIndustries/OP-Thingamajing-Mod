@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+<!-- base (more info: https://github.com/Outpost-21/Tabula-Rasa/wiki/In-Game-Updates): 
+	<TabulaRasa.UpdateDef>
+		<defName>CHTechCore_"yyyymmdd"</defName>
+		<date>yyyy/mm/dd</date>
+		<banner />
+		<contentList>
+			<li>
+				<header>Header</header>
+				<text>text
+text2</text>
+			</li>
+		</contentList>
+		<links>
+			<li>
+				<linkLabel>Steam Workshop</linkLabel>
+				<linkUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=3097014712</linkUrl>
+				<linkTex>TabulaRasa/UI/Steam</linkTex>
+			</li>
+			<li>
+				<linkLabel>GitHub</linkLabel>
+				<linkUrl>https://github.com/CHTechIndustries/CHTechIndustries-Rimworld-Core</linkUrl>
+				<linkTex>TabulaRasa/UI/GitHub</linkTex>
+			</li>
+		</links>
+	</TabulaRasa.UpdateDef>
+
+notes: 
+1. if multiple updates in same day, end with an "_x", where "x" is the number of releases it is from that day (so if there are 3 releases, it will be "date_1", "date_2", and "date_3"
+2. if multiple lines in single text, to /n
+-->
+
+<!-- version 1.2.0 -->
+	<TabulaRasa.UpdateDef>
+		<defName>CHTech_opThings_yyymmdd</defName>
+		<date>yyyy/mm/dd</date>
+		<banner />
+		<contentList>
+			<li>
+				<header>Released</header>
+				<text>Added and merged Godly Traits and Godly Weapons by Torodo
+Rewrote description
+Updated mod to 1.5
+added in placeholder folders for new features coming soon (TM)
+</text>
+			</li>
+		</contentList>
+		<links>
+			<li>
+				<linkLabel>Steam Workshop</linkLabel>
+				<linkUrl>Workshop Link</linkUrl>
+				<linkTex>TabulaRasa/UI/Steam</linkTex>
+			</li>
+			<li>
+				<linkLabel>GitHub</linkLabel>
+				<linkUrl>Github Link</linkUrl>
+				<linkTex>TabulaRasa/UI/GitHub</linkTex>
+			</li>
+		</links>
+	</TabulaRasa.UpdateDef>
+<!-- version 1.2.1 -->
+	<TabulaRasa.UpdateDef>
+		<defName>CHTech_opThings_yyymmdd</defName>
+		<date>yyyy/mm/dd</date>
+		<banner />
+		<contentList>
+			<li>
+				<header>Improved</header>
+				<text>finished the description
+added some important discussions
+removed log publisher as a reqrirment as it was doing nothing but causing confusion
+			</text>
+			</li>
+		</contentList>
+		<links>
+			<li>
+				<linkLabel>Steam Workshop</linkLabel>
+				<linkUrl>Workshop Link</linkUrl>
+				<linkTex>TabulaRasa/UI/Steam</linkTex>
+			</li>
+			<li>
+				<linkLabel>GitHub</linkLabel>
+				<linkUrl>Github Link</linkUrl>
+				<linkTex>TabulaRasa/UI/GitHub</linkTex>
+			</li>
+		</links>
+	</TabulaRasa.UpdateDef>
+<!-- version 1.2.2 -->
+	<TabulaRasa.UpdateDef>
+		<defName>CHTech_opThings_yyymmdd</defName>
+		<date>yyyy/mm/dd</date>
+		<banner />
+		<contentList>
+			<li>
+				<header>Improvments</header>
+				<text>improved load order
+improved description
+improved file structure
+added branchlog
+removed extraneus about file components
+added a "recommended unlimiter mods" section
+</text>
+			</li>
+		</contentList>
+		<links>
+			<li>
+				<linkLabel>Steam Workshop</linkLabel>
+				<linkUrl>Workshop Link</linkUrl>
+				<linkTex>TabulaRasa/UI/Steam</linkTex>
+			</li>
+			<li>
+				<linkLabel>GitHub</linkLabel>
+				<linkUrl>Github Link</linkUrl>
+				<linkTex>TabulaRasa/UI/GitHub</linkTex>
+			</li>
+		</links>
+	</TabulaRasa.UpdateDef>
+<!-- version 1.2.3 -->
+	<TabulaRasa.UpdateDef>
+		<defName>CHTech_opThings_yyymmdd</defName>
+		<date>yyyy/mm/dd</date>
+		<banner />
+		<contentList>
+			<li>
+				<header>Logs</header>
+				<text>added un-un-limmited to load order
+added a tabula-rasa based changelog, using tabula-rasa as an optional compat (if you have my core, the core will reqrire that mod, and inately have the unlimmiters, and more (tm)
+made What's That Mod load bellow this in the load order
+</text>
+			</li>
+		</contentList>
+		<links>
+			<li>
+				<linkLabel>Steam Workshop</linkLabel>
+				<linkUrl>Workshop Link</linkUrl>
+				<linkTex>TabulaRasa/UI/Steam</linkTex>
+			</li>
+			<li>
+				<linkLabel>GitHub</linkLabel>
+				<linkUrl>Github Link</linkUrl>
+				<linkTex>TabulaRasa/UI/GitHub</linkTex>
+			</li>
+		</links>
+	</TabulaRasa.UpdateDef>	
+</Defs>
