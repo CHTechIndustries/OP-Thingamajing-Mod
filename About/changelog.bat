@@ -1,1 +1,1 @@
-@start "" "..\Common\Defs\ChangelogDefs"
+@start "" "..\Common\Mods\TabulaRasa\Defs\ChangelogDefs"
