@@ -65,8 +65,11 @@
 					<CleaningSpeed>999999</CleaningSpeed>
 
 					<!-- misc -->
-					<marketValueFactorOffset>-0.9</marketValueFactorOffset>
 				</statOffsets>
+				<statFactors>
+					        <marketValueFactor>0</marketValueFactor>
+		        </statFactors>
+
 			</li>
 		</degreeDatas>
 	</TraitDef>
