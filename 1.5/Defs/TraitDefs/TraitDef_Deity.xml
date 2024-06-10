@@ -2,7 +2,7 @@
 <Defs>
 	<TraitDef>
 		<defName>Deity</defName>
-		<commonality>0.001</commonality>
+		<commonality>0.000</commonality>
 		
 		<degreeDatas>
 			<li>
@@ -64,7 +64,8 @@
 					<ConstructionSpeed>999999</ConstructionSpeed>
 					<CleaningSpeed>999999</CleaningSpeed>
 
-					
+					<!-- misc -->
+					<marketValueFactorOffset>-0.9</marketValueFactorOffset>
 				</statOffsets>
 			</li>
 		</degreeDatas>
