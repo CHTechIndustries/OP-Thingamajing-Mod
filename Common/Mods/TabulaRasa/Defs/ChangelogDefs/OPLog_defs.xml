@@ -59,7 +59,7 @@ added in placeholder folders for new features coming soon (TM)
 			</li>
 		</links>
 	</TabulaRasa.UpdateDef>
-<!-- version 1.2.1 -->
+<!-- version 2.2.1 -->
 	<TabulaRasa.UpdateDef>
 		<defName>CHTech_opThings_20240425</defName>
 		<date>2024/04/25</date>
@@ -81,12 +81,12 @@ removed log publisher as a reqrirment as it was doing nothing but causing confus
 			</li>
 			<li>
 				<linkLabel>GitHub</linkLabel>
-				<linkUrl>https://github.com/CHTechIndustries/OP-Thingamajing-Mod</linkUrl>
+				<linkUrl>https://github.com/CHTechIndustries/OP-Thingamajing-Mod/releases/tag/Release</linkUrl>
 				<linkTex>TabulaRasa/UI/GitHub</linkTex>
 			</li>
 		</links>
 	</TabulaRasa.UpdateDef>
-<!-- version 1.2.2 -->
+<!-- version 2.2.2 -->
 	<TabulaRasa.UpdateDef>
 		<defName>CHTech_opThings_20240426</defName>
 		<date>2024/04/06</date>
@@ -111,12 +111,12 @@ added a "recommended unlimiter mods" section
 			</li>
 			<li>
 				<linkLabel>GitHub</linkLabel>
-				<linkUrl>https://github.com/CHTechIndustries/OP-Thingamajing-Mod</linkUrl>
+				<linkUrl>https://github.com/CHTechIndustries/OP-Thingamajing-Mod/releases/tag/v2.2.2</linkUrl>
 				<linkTex>TabulaRasa/UI/GitHub</linkTex>
 			</li>
 		</links>
 	</TabulaRasa.UpdateDef>
-<!-- version 1.2.3 -->
+<!-- version 2.2.3 -->
 	<TabulaRasa.UpdateDef>
 		<defName>CHTech_opThings_20240517</defName>
 		<date>2024/05/17</date>
@@ -138,7 +138,34 @@ made What's That Mod load bellow this in the load order
 			</li>
 			<li>
 				<linkLabel>GitHub</linkLabel>
-				<linkUrl>https://github.com/CHTechIndustries/OP-Thingamajing-Mod</linkUrl>
+				<linkUrl>https://github.com/CHTechIndustries/OP-Thingamajing-Mod/releases/tag/2.2.3</linkUrl>
+				<linkTex>TabulaRasa/UI/GitHub</linkTex>
+			</li>
+		</links>
+	</TabulaRasa.UpdateDef>	
+	<!-- version 2.2.4 -->
+	<TabulaRasa.UpdateDef>
+		<defName>CHTech_opThings_20240610</defName>
+		<date>2024/06/10</date>
+		<banner />
+		<contentList>
+			<li>
+				<header>Logs</header>
+				<text>updated changelog links
+made diety not make market value extremley high, which makes it more OP, as now you get normal raids, with, well...
+added a batch file that takes you from the about folder to the changelog folder
+</text>
+			</li>
+		</contentList>
+		<links>
+			<li>
+				<linkLabel>Steam Workshop</linkLabel>
+				<linkUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=3227001441</linkUrl>
+				<linkTex>TabulaRasa/UI/Steam</linkTex>
+			</li>
+			<li>
+				<linkLabel>GitHub</linkLabel>
+				<linkUrl>https://github.com/CHTechIndustries/OP-Thingamajing-Mod/releases/tag/v2.2.4</linkUrl>
 				<linkTex>TabulaRasa/UI/GitHub</linkTex>
 			</li>
 		</links>

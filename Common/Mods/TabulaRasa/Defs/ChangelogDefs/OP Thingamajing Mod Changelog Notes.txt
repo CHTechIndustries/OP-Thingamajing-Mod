@@ -22,3 +22,7 @@ added "recommended unlimiter mods"
 added un-un-limmited to load order
 added a tabula-rasa based changelog, made an optional compat (if you have my core, the core will require that mod)
 made What's That Mod load bellow this in load order
+
+1.2.4
+made diety more OP by makeing enemies think it's worthless
+made diety not occur without players adding it. I think.
