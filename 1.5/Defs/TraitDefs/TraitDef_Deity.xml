@@ -64,7 +64,7 @@
 					<ConstructionSpeed>999999</ConstructionSpeed>
 					<CleaningSpeed>999999</CleaningSpeed>
 					<marketValueFactorOffset>100000000000</marketValueFactorOffset>
-					<marketValueFactorOffset>-1000000000009</marketValueFactorOffset>
+					<marketValueFactorOffset>-100000000000</marketValueFactorOffset>
 
 					<!-- misc -->
 				</statOffsets>
