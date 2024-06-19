@@ -63,6 +63,7 @@
 					<MiningSpeed>999999</MiningSpeed>
 					<ConstructionSpeed>999999</ConstructionSpeed>
 					<CleaningSpeed>999999</CleaningSpeed>
+					<marketValueFactorOffset>-100000000000</marketValueFactorOffset>
 
 					<!-- misc -->
 				</statOffsets>
