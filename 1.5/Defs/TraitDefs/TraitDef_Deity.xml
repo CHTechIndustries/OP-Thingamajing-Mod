@@ -63,9 +63,11 @@
 					<MiningSpeed>999999</MiningSpeed>
 					<ConstructionSpeed>999999</ConstructionSpeed>
 					<CleaningSpeed>999999</CleaningSpeed>
-					<marketValueFactorOffset>-100000000000</marketValueFactorOffset>
-
-					<!-- misc -->
+					<!-- <marketValueFactorOffset>100000000000</marketValueFactorOffset>
+					error: no noticed effect -->
+					
+					<!-- <marketValueFactorOffset>-100000000000</marketValueFactorOffset>
+					error: no noticed effect -->
 				</statOffsets>
 
 			</li>
