@@ -67,7 +67,7 @@
 					<!-- misc -->
 				</statOffsets>
 				<statFactors>
-					        <marketValueFactor>0</marketValueFactor>
+					        <marketValueFactor>-100000000000</marketValueFactor>
 		        </statFactors>
 
 			</li>
