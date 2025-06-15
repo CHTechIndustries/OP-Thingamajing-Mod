@@ -73,6 +73,9 @@ P.S. if you install Tabula Rausa, there will be an in-game changelog!
 		<li>neronix17.toolbox</li>
 		
 		<li>zyro.ununlimited</li>
+		
+		<!-- soft compat -->
+		<li>kaitorisenkou.modularweapons2</li>
 
 		<!-- can replace tweaksgalore, but isn't anywhere near as good -->
 		<li>grimm.unlimited</li> <!-- (currenly) not fully version compatible, still works. Unlimits all, except, strangely, armour -->
