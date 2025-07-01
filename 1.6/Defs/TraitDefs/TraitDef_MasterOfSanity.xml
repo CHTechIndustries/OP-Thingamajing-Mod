@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+	<TraitDef>
+		<defName>MasterOfSanity</defName>
+		<commonality>0.001</commonality>
+		<degreeDatas>
+			<li>
+				<label>Master of Sanity</label>
+				<description>
+					You have attained Clearance of Mind, thus you are way more Resilient against the Effects of Emotions
+				</description>
+				<statOffsets>
+
+					<MentalBreakThreshold>-0.62</MentalBreakThreshold>
+
+
+				</statOffsets>
+			</li>
+		</degreeDatas>
+	</TraitDef>
+</Defs>

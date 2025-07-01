@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+	<TraitDef>
+		<defName>GodOfSpeed</defName>
+		<commonality>0.001</commonality>
+		<degreeDatas>
+			<li>
+				<label>God of Speed</label>
+				<description>Ascended to the Edges of Heaven, Time does not matter as much to you anymore. You Move and Work at Unimaginable Speeds.</description>
+				<statOffsets>
+					<MoveSpeed>999</MoveSpeed>
+					<WorkSpeedGlobal>999</WorkSpeedGlobal>
+
+					<CarryingCapacity>20</CarryingCapacity>
+
+				</statOffsets>
+			</li>
+		</degreeDatas>
+	</TraitDef>
+</Defs>

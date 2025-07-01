@@ -1,0 +1,68 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+
+	
+	<!-- IMPORTANT INFORMATION: This Hediff is in the Game but there is no way to apply it to a pawn besides giving it to them via Godmode>HealthTab>GiveHediff-->
+
+	
+	
+	<HediffDef ParentName="DiseaseBase">
+		<defName>hediff_godly_cursed-meltingflesh</defName>
+		<label>Cursed - Melting Flesh</label>
+		<labelNoun>Cursed - Melting Flesh</labelNoun>
+		<description>Cursed by a Greater Force. A Mind Cursed of the thought of Melting Flesh, inducing heavy Pain</description>
+		<hediffClass>HediffWithComps</hediffClass>
+		<defaultLabelColor>(1, 0, 0.6)</defaultLabelColor>
+		<isBad>false</isBad>
+		<initialSeverity>1</initialSeverity>
+		<maxSeverity>1</maxSeverity>
+		
+		<scenarioCanAdd>false</scenarioCanAdd>
+		
+		<comps>
+			<li Class="HediffCompProperties_SeverityPerDay">
+				<severityPerDay>0</severityPerDay>
+			</li>
+			
+		</comps>
+
+		
+		<!-- TEST: Consciousness, Moving, Manipulation, Talking, Eating, Sight, Hearing, Breathing, Digestion, BloodFiltration, BloodPumping -->
+
+		<stages>
+
+			<!-- [============[Stage 1 Curse]=================]-->
+
+			<li>
+				<!-- ?: Label Text that is shown on the health Tag -->
+				<label>Curse of Melting Flesh</label>
+				<!-- ?: The Pain that is induced. 10 Paint = You give them Extreme Pain when they get this Hediff/Stage | -10 Pain = You are basically Invincible against any Pain inducing things | 0 = Neutral, 1 = Tiny Pain Induced etc. -->
+				<painFactor>10</painFactor>
+				<!-- <vomitMtbDays>4</vomitMtbDays> -->
+				<capMods>
+
+					<li>
+						<capacity>Consciousness</capacity>
+						<offset>-0.15</offset>
+					</li>
+					<li>
+						<capacity>BloodFiltration</capacity>
+						<offset>0.35</offset>
+					</li>
+					<li>
+						<capacity>BloodPumping</capacity>
+						<offset>0.5</offset>
+					</li>
+					
+				</capMods>
+
+			</li>
+		</stages>
+
+
+	</HediffDef>
+	
+	
+
+
+</Defs>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+	<TraitDef>
+		<defName>DemigodOfDeath</defName>
+		<commonality>0.001</commonality>
+		<degreeDatas>
+			<li>
+				<label>Demigod of Death</label>
+				<description>Mortality has been in control of this Pawn, as such they are nothing less than a Destroyer of Flesh (Increases Melee Hit Chance and Shooting Accuracy to 100% - Doesnt add Power)</description>
+				<statOffsets>
+
+					<MeleeHitChance>999</MeleeHitChance>
+					<ShootingAccuracyPawn>999</ShootingAccuracyPawn>
+
+
+				</statOffsets>
+
+				<skillGains>
+					<li>
+						<key>Shooting</key>
+						<value>12</value>
+					</li>
+					<li>
+						<key>Melee</key>
+						<value>12</value>
+					</li>
+				</skillGains>
+
+				</li>
+		</degreeDatas>
+	</TraitDef>
+</Defs>

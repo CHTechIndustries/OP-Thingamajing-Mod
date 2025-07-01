@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+	<TraitDef>
+		<defName>MasterOfIntelligence</defName>
+		<commonality>0.001</commonality>
+		<degreeDatas>
+			<li>
+				<label>Master of Intelligence</label>
+				<description>A Gifted Pawn, Graced maybe even from a God. Their Intelligence is Extraordinary.</description>
+				<statFactors>
+					<GlobalLearningFactor>5</GlobalLearningFactor>
+				</statFactors>
+				
+
+				
+			</li>
+		</degreeDatas>
+	</TraitDef>
+</Defs>

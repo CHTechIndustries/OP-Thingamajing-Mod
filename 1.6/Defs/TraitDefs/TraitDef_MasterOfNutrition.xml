@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+	<TraitDef>
+		<defName>MasterOfNutrition</defName>
+		<commonality>0.001</commonality>
+		<degreeDatas>
+			<li>
+				<label>Master of Nutrition</label>
+				<description>
+						A Chef that has been gifted by the Gods of Foods.
+				</description>
+				<statOffsets>
+
+					<EatingSpeed>5.0</EatingSpeed>
+					<RestRateMultiplier>1.2</RestRateMultiplier>
+					<MentalBreakThreshold>-0.05</MentalBreakThreshold>
+
+					<ComfyTemperatureMax>10</ComfyTemperatureMax>
+					<ComfyTemperatureMin>-3</ComfyTemperatureMin>
+
+					<FoodPoisonChance>-1</FoodPoisonChance>
+
+					<ForagedNutritionPerDay>50</ForagedNutritionPerDay>	
+					
+					<CookSpeed>5</CookSpeed>
+
+
+				</statOffsets>
+
+
+
+
+			</li>
+		</degreeDatas>
+	</TraitDef>
+</Defs>

@@ -16,8 +16,8 @@
 	<v1.6>
 		<li>/</li>
 		<li>Common</li>
-		<li>1.5</li>
-		<li IfModActive="OskarPotocki.VanillaFactionsExpanded.Core">1.5/Mods/VFE</li> 
+		<li>1.6</li>
+		<li IfModActive="OskarPotocki.VanillaFactionsExpanded.Core">1.6/Mods/VFE</li> 
 		<li IfModActive="neronix17.toolbox">Common/Mods/TabulaRasa</li> <!-- changelog using Tabula Rausa. very important -->
 	</v1.6>
 </loadFolders>
