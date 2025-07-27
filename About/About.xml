@@ -68,7 +68,6 @@ P.S. if you install Tabula Rausa, there will be an in-game changelog!
 		<li>ludeon.rimworld.biotech</li>
 		<li>ludeon.rimworld.anomaly</li>
 		<li>ludeon.rimworld.odyssey</li>
-		<li>maiya.opthingamajingmod.zh</li>
 
 		<li>chtech.core</li> <!-- contains some miscelaneus patches, makes tweaksgalore default to better setup -->
 		<li>neronix17.tweaksgalore</li> <!-- allows for manjor tweaks and such, highly recommended, can replace the next three. Only reason it's not required is this mod is designed to have very few non-frameworks required -->		
@@ -83,6 +82,9 @@ P.S. if you install Tabula Rausa, there will be an in-game changelog!
 		<li>grimm.unlimited</li> <!-- (currenly) not fully version compatible, still works. Unlimits all, except, strangely, armour -->
 		<li>paragon.hanul.unlimitedarmor</li> <!-- updated to this version, unlimits armour -->
 		<li>jdalt.nomorelethaldamagethreshold</li> <!-- removes the lethal damage threshold. Tweaks Galore can do this too, so, just use that one. But, you know, just in case... -->
+		
+		<!-- translations -->
+		<li>maiya.opthingamajingmod.zh</li> <!-- chinease translation by: https://steamcommunity.com/id/Maiya0126/myworkshopfiles/?appid=294100&sort=score&browsefilter=myfiles&view=imagewall -->
 	</loadAfter>
 	<loadBefore>
 		<li>gege.exportedxenotypestoragemodfolder</li>
