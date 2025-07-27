@@ -36,6 +36,10 @@ A: Twofoled. Firstly, due to the features and methodolgy of this mod, it is inhe
 Q: CE Compatible?
 A: Uh... sure. There might be "unintented features" that we can't guarentee to fix, but you do you and all!
 
+Q: Any translation mods?
+A: Yes! Currently known are: 
+	-Simplified Chinese translation by Maiya0126
+
 P.S. if you install Tabula Rausa, there will be an in-game changelog!
 </description>
 
@@ -84,7 +88,7 @@ P.S. if you install Tabula Rausa, there will be an in-game changelog!
 		<li>jdalt.nomorelethaldamagethreshold</li> <!-- removes the lethal damage threshold. Tweaks Galore can do this too, so, just use that one. But, you know, just in case... -->
 		
 		<!-- translations -->
-		<li>maiya.opthingamajingmod.zh</li> <!-- chinease translation by: https://steamcommunity.com/id/Maiya0126/myworkshopfiles/?appid=294100&sort=score&browsefilter=myfiles&view=imagewall -->
+		<li>maiya.opthingamajingmod.zh</li> <!-- Simplified Chinese translation by: https://steamcommunity.com/id/Maiya0126/myworkshopfiles/?appid=294100&sort=score&browsefilter=myfiles&view=imagewall -->
 	</loadAfter>
 	<loadBefore>
 		<li>gege.exportedxenotypestoragemodfolder</li>
