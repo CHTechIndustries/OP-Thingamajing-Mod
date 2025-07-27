@@ -84,7 +84,7 @@ P.S. if you install Tabula Rausa, there will be an in-game changelog!
 		<li>jdalt.nomorelethaldamagethreshold</li> <!-- removes the lethal damage threshold. Tweaks Galore can do this too, so, just use that one. But, you know, just in case... -->
 		
 		<!-- translations -->
-		<li>maiya.opthingamajingmod.zh</li>
+		<li>maiya.opthingamajingmod.zh</li> <!-- chinease translation by: https://steamcommunity.com/id/Maiya0126/myworkshopfiles/?appid=294100&sort=score&browsefilter=myfiles&view=imagewall -->
 	</loadAfter>
 	<loadBefore>
 		<li>gege.exportedxenotypestoragemodfolder</li>
