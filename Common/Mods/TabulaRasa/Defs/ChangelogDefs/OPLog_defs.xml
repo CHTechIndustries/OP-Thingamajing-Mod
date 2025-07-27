@@ -195,5 +195,30 @@ Right now I am using the same folder for both versions. It is possible that a ch
 				<linkTex>TabulaRasa/UI/GitHub</linkTex>
 			</li>
 		</links>
-	</TabulaRasa.UpdateDef>		
+	</TabulaRasa.UpdateDef>
+		<!-- version 3.0.1 -->
+	<TabulaRasa.UpdateDef>
+		<defName>CHTech_opThings_20250727</defName>
+		<date>2024/07/27</date>
+		<banner />
+		<contentList>
+			<li>
+				<header>Load Order</header>
+				<text>Adjust the load order to work with Rimworld Odesey
+</text>
+			</li>
+		</contentList>
+		<links>
+			<li>
+				<linkLabel>Steam Workshop</linkLabel>
+				<linkUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=3227001441</linkUrl>
+				<linkTex>TabulaRasa/UI/Steam</linkTex>
+			</li>
+			<li>
+				<linkLabel>GitHub</linkLabel>
+				<linkUrl>https://github.com/CHTechIndustries/OP-Thingamajing-Mod/releases/tag/v3.0.0</linkUrl>
+				<linkTex>TabulaRasa/UI/GitHub</linkTex>
+			</li>
+		</links>
+	</TabulaRasa.UpdateDef>
 </Defs>
