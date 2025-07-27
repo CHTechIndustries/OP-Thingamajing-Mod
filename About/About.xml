@@ -4,10 +4,11 @@
 	<author>CTH2004, Torodo</author>
 	<packageId>chtech.opThings.Pack</packageId> 
 	<url>https://github.com/CHTechIndustries/OP-Thingamajing-Mod/wiki</url>
-	<modVersion>1.2.4</modVersion>
+	<modVersion>3.0.1</modVersion>
 	<supportedVersions>
 		<li>1.4</li>
 		<li>1.5</li>
+		<li>1.6</li>
 	</supportedVersions>
 	<description>This mod started as being a colletion of OP items, forked from the 2 following mods: Godly Traits and Godly Weapons (both by Torodo). Then, I started to come up with ideas and features to add, so it became more than it was. by Torodo, then grown over time.
 At first, it was just a bunch of OP items, but as I came up with more ideas, I realized something: this mod is kinda a mod for me to take a break from making things that make sense, and just go "why not!". That also means it's great for expirmenting, as if something doesn't do what I want, I can easily shift it to being OP
@@ -34,6 +35,10 @@ A: Twofoled. Firstly, due to the features and methodolgy of this mod, it is inhe
 
 Q: CE Compatible?
 A: Uh... sure. There might be "unintented features" that we can't guarentee to fix, but you do you and all!
+
+Q: Any translation mods?
+A: Yes! Currently known are: 
+	-Simplified Chinese translation by Maiya0126
 
 P.S. if you install Tabula Rausa, there will be an in-game changelog!
 </description>
@@ -66,17 +71,24 @@ P.S. if you install Tabula Rausa, there will be an in-game changelog!
 		<li>ludeon.rimworld.ideology</li>
 		<li>ludeon.rimworld.biotech</li>
 		<li>ludeon.rimworld.anomaly</li>
+		<li>ludeon.rimworld.odyssey</li>
 
 		<li>chtech.core</li> <!-- contains some miscelaneus patches, makes tweaksgalore default to better setup -->
 		<li>neronix17.tweaksgalore</li> <!-- allows for manjor tweaks and such, highly recommended, can replace the next three. Only reason it's not required is this mod is designed to have very few non-frameworks required -->		
 		<li>neronix17.toolbox</li>
 		
 		<li>zyro.ununlimited</li>
+		
+		<!-- soft compat -->
+		<li>kaitorisenkou.modularweapons2</li>
 
 		<!-- can replace tweaksgalore, but isn't anywhere near as good -->
 		<li>grimm.unlimited</li> <!-- (currenly) not fully version compatible, still works. Unlimits all, except, strangely, armour -->
 		<li>paragon.hanul.unlimitedarmor</li> <!-- updated to this version, unlimits armour -->
 		<li>jdalt.nomorelethaldamagethreshold</li> <!-- removes the lethal damage threshold. Tweaks Galore can do this too, so, just use that one. But, you know, just in case... -->
+		
+		<!-- translations -->
+		<li>maiya.opthingamajingmod.zh</li> <!-- Simplified Chinese translation by: https://steamcommunity.com/id/Maiya0126/myworkshopfiles/?appid=294100&sort=score&browsefilter=myfiles&view=imagewall -->
 	</loadAfter>
 	<loadBefore>
 		<li>gege.exportedxenotypestoragemodfolder</li>
