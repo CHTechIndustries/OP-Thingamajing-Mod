@@ -205,6 +205,7 @@ Right now I am using the same folder for both versions. It is possible that a ch
 			<li>
 				<header>Load Order</header>
 				<text>Adjust the load order to work with Rimworld Odesey
+Adjust the load order so that a translation loads before it
 </text>
 			</li>
 		</contentList>
@@ -218,6 +219,11 @@ Right now I am using the same folder for both versions. It is possible that a ch
 				<linkLabel>GitHub</linkLabel>
 				<linkUrl>https://github.com/CHTechIndustries/OP-Thingamajing-Mod/releases/tag/v3.0.0</linkUrl>
 				<linkTex>TabulaRasa/UI/GitHub</linkTex>
+			</li>
+			<li>
+				<linkLabel>Chinease Translation</linkLabel>
+				<linkUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=3531010342</linkUrl>
+				<linkTex>TabulaRasa/UI/Steam</linkTex>
 			</li>
 		</links>
 	</TabulaRasa.UpdateDef>
