@@ -4,7 +4,7 @@
 	<author>CTH2004, Torodo</author>
 	<packageId>chtech.opThings.Pack</packageId> 
 	<url>https://github.com/CHTechIndustries/OP-Thingamajing-Mod/wiki</url>
-	<modVersion>1.2.4</modVersion>
+	<modVersion>3.0.1</modVersion>
 	<supportedVersions>
 		<li>1.4</li>
 		<li>1.5</li>
@@ -70,6 +70,7 @@ P.S. if you install Tabula Rausa, there will be an in-game changelog!
 		<li>ludeon.rimworld.ideology</li>
 		<li>ludeon.rimworld.biotech</li>
 		<li>ludeon.rimworld.anomaly</li>
+		<li>ludeon.rimworld.odyssey</li>
 
 		<li>chtech.core</li> <!-- contains some miscelaneus patches, makes tweaksgalore default to better setup -->
 		<li>neronix17.tweaksgalore</li> <!-- allows for manjor tweaks and such, highly recommended, can replace the next three. Only reason it's not required is this mod is designed to have very few non-frameworks required -->		
