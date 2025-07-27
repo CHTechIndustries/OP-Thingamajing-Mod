@@ -221,7 +221,7 @@ Adjust the load order so that a translation loads before it
 				<linkTex>TabulaRasa/UI/GitHub</linkTex>
 			</li>
 			<li>
-				<linkLabel>Chinease Translation</linkLabel>
+				<linkLabel>Simplified Chinese translation</linkLabel>
 				<linkUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=3531010342</linkUrl>
 				<linkTex>TabulaRasa/UI/Steam</linkTex>
 			</li>
