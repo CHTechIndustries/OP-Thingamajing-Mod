@@ -82,6 +82,8 @@ P.S. if you install Tabula Rausa, there will be an in-game changelog!
 		<li>grimm.unlimited</li> <!-- (currenly) not fully version compatible, still works. Unlimits all, except, strangely, armour -->
 		<li>paragon.hanul.unlimitedarmor</li> <!-- updated to this version, unlimits armour -->
 		<li>jdalt.nomorelethaldamagethreshold</li> <!-- removes the lethal damage threshold. Tweaks Galore can do this too, so, just use that one. But, you know, just in case... -->
+		
+		<!-- translations -->
 	</loadAfter>
 	<loadBefore>
 		<li>gege.exportedxenotypestoragemodfolder</li>
