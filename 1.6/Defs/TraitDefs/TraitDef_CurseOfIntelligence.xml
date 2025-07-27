@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+	<TraitDef>
+		<defName>CurseOfIntelligence</defName>
+		<commonality>0.001</commonality>
+		<degreeDatas>
+			<li>
+				<label>Curse of Intelligence</label>
+				<description>You learn at Incredible Paces, perhaps a Reincarnated Deity... But your Flesh is weak. You are not made for this World.</description>
+				<statFactors>
+					
+					<GlobalLearningFactor>999999</GlobalLearningFactor>
+					<IncomingDamageFactor>10</IncomingDamageFactor>
+					<PainShockThreshold>-0.15</PainShockThreshold>
+					<FoodPoisonChance>0.5</FoodPoisonChance>
+					<RestRateMultiplier>0.5</RestRateMultiplier>
+					<MoveSpeed>-0.5</MoveSpeed>
+					<MeleeHitChance>-999</MeleeHitChance>
+					<CarryingCapacity>0</CarryingCapacity>
+					<MentalBreakThreshold>1</MentalBreakThreshold>
+					<WorkSpeedGlobal>0.85</WorkSpeedGlobal>
+					
+				</statFactors>
+
+
+
+			</li>
+		</degreeDatas>
+	</TraitDef>
+</Defs>

@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+	<TraitDef>
+		<defName>Deity</defName>
+		<commonality>0.000</commonality>
+		
+		<degreeDatas>
+			<li>
+				<label>Deity</label>
+
+				<description>
+									You Created this Reality. You are its God.
+									
+									
+									(This is the Highest a Pawn can Attain. This Ruins the Meaning of the Game. Use this Power wisely, and do not regret it.)
+									
+				</description>
+
+				
+				
+				<statOffsets>
+					
+					<!-- INVINCIBILITY -->
+					<IncomingDamageFactor>-100</IncomingDamageFactor>
+					<MaxHitPoints>9999999999.0</MaxHitPoints>
+					<MentalBreakThreshold>-1</MentalBreakThreshold>
+					<PainShockThreshold>1</PainShockThreshold>
+
+					<ComfyTemperatureMax>99999</ComfyTemperatureMax>
+					<ComfyTemperatureMin>-99999</ComfyTemperatureMin>
+
+					<FoodPoisonChance>-1</FoodPoisonChance>
+
+					<ImmunityGainSpeed>99999</ImmunityGainSpeed>
+					<ToxicResistance>99999</ToxicResistance>
+					<ToxicEnvironmentResistance>999999</ToxicEnvironmentResistance>
+					
+					<!-- MOBILITY -->
+			
+					<CarryingCapacity>999999</CarryingCapacity>
+					<MoveSpeed>999999</MoveSpeed>
+					<MeleeHitChance>999999</MeleeHitChance>
+					<PawnBeauty>999999</PawnBeauty>
+					<SocialImpact>999999</SocialImpact>
+
+					<TameAnimalChance>999999</TameAnimalChance>
+					<TrainAnimalChance>999999</TrainAnimalChance>
+
+					<SurgerySuccessChanceFactor>999999</SurgerySuccessChanceFactor>
+
+					<ForagedNutritionPerDay>999999</ForagedNutritionPerDay>
+
+					<EatingSpeed>999999</EatingSpeed>
+					<FoodPoisonChance>-999999</FoodPoisonChance>
+					<RestRateMultiplier>999999</RestRateMultiplier>
+
+					<!-- WORK RELATED THINGS / SPEEDS -->
+					<WorkSpeedGlobal>9999999</WorkSpeedGlobal>
+					<GlobalLearningFactor>9999999</GlobalLearningFactor>
+					
+					<CookSpeed>999999</CookSpeed>
+					<MiningYield>999999</MiningYield> 
+					<MiningSpeed>999999</MiningSpeed>
+					<ConstructionSpeed>999999</ConstructionSpeed>
+					<CleaningSpeed>999999</CleaningSpeed>
+					<marketValueFactorOffset>100000000000</marketValueFactorOffset>
+					<marketValueFactorOffset>-100000000000</marketValueFactorOffset>
+
+					<!-- misc -->
+				</statOffsets>
+				<statFactors>
+					        <marketValueFactor>-100000000000</marketValueFactor>
+							<marketValueFactor>100000000000</marketValueFactor>
+		        </statFactors>
+
+			</li>
+		</degreeDatas>
+	</TraitDef>
+</Defs>

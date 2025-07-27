@@ -1,0 +1,1 @@
+Wanted to add a Special Touhou Themed weapon but had to deal with .dll files and c# scripting and i gave up, maybe ill resume or try it again some other time

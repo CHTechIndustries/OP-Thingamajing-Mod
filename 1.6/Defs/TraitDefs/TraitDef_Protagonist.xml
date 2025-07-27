@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+	<TraitDef>
+		<defName>Protagonist</defName>
+		<commonality>0.001</commonality>
+		
+		<degreeDatas>
+			<li>
+				<label>The Protagonist</label>
+
+				<description>
+									You are the Protagonist in this Story, blessed by its God you Reincarnated here to be a Hero.. or Villain. You are free to live this second Life as you wish
+									(Your last one was cut short by Truck-kun)
+				</description>
+
+
+				
+				
+				
+				<statOffsets>
+					
+					<!-- RESISTANCE -->
+					<IncomingDamageFactor>-0.95</IncomingDamageFactor>
+					<MaxHitPoints>25000.0</MaxHitPoints>
+					<MentalBreakThreshold>-0.95</MentalBreakThreshold>
+					<PainShockThreshold>0.50</PainShockThreshold>
+					
+					<ComfyTemperatureMax>50</ComfyTemperatureMax>
+					<ComfyTemperatureMin>-25</ComfyTemperatureMin>
+
+					<FoodPoisonChance>-0.95</FoodPoisonChance>
+
+					<ImmunityGainSpeed>10</ImmunityGainSpeed>
+					<ToxicResistance>25</ToxicResistance>
+					<ToxicEnvironmentResistance>40</ToxicEnvironmentResistance>
+					
+					
+					<!-- MOBILITY -->
+					<CarryingCapacity>50</CarryingCapacity>
+					<MoveSpeed>10</MoveSpeed>
+					<MeleeHitChance>999</MeleeHitChance>
+					<PawnBeauty>10</PawnBeauty>
+					<SocialImpact>10</SocialImpact>
+
+					<TameAnimalChance>25</TameAnimalChance>
+					<TrainAnimalChance>45</TrainAnimalChance>
+
+					<SurgerySuccessChanceFactor>15</SurgerySuccessChanceFactor>
+
+					<ForagedNutritionPerDay>2</ForagedNutritionPerDay>
+
+					<EatingSpeed>2.5</EatingSpeed>
+					<FoodPoisonChance>-0.95</FoodPoisonChance>
+					<RestRateMultiplier>3</RestRateMultiplier>
+
+					<!-- WORK RELATED THINGS / SPEEDS -->
+					<WorkSpeedGlobal>0.5</WorkSpeedGlobal>
+					<GlobalLearningFactor>10</GlobalLearningFactor>
+					
+					<CookSpeed>0.75</CookSpeed>
+					<MiningYield>15</MiningYield>
+					<MiningSpeed>0.5</MiningSpeed>
+					<ConstructionSpeed>0.5</ConstructionSpeed>
+					<CleaningSpeed>1.2</CleaningSpeed>
+
+				</statOffsets>
+			</li>
+		</degreeDatas>
+	</TraitDef>
+</Defs>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+	<TraitDef>
+		<defName>AccursedBeing</defName>
+		<commonality>0.001</commonality>
+		<degreeDatas>
+			<li>
+				<label>Accursed Being</label>
+				<description>
+					You've met with a Terrible Fate haven't you?
+				</description>
+				<statOffsets>
+
+					<!-- INVINCIBILITY -->
+					<IncomingDamageFactor>1</IncomingDamageFactor>
+					<MaxHitPoints>10</MaxHitPoints>
+					<MentalBreakThreshold>2.5</MentalBreakThreshold>
+					<PainShockThreshold>-0.35</PainShockThreshold>
+
+					<!-- MOBILITY -->
+
+					<CarryingCapacity>-1</CarryingCapacity>
+					<MoveSpeed>-1</MoveSpeed>
+					<MeleeHitChance>-999</MeleeHitChance>
+					<PawnBeauty>-999</PawnBeauty>
+					<SocialImpact>-999</SocialImpact>
+
+					<TameAnimalChance>-999</TameAnimalChance>
+					<TrainAnimalChance>-999</TrainAnimalChance>
+
+					<SurgerySuccessChanceFactor>-999</SurgerySuccessChanceFactor>
+
+					<ForagedNutritionPerDay>-999</ForagedNutritionPerDay>
+
+					<EatingSpeed>0.4</EatingSpeed>
+					<FoodPoisonChance>2.5</FoodPoisonChance>
+					<RestRateMultiplier>0.35</RestRateMultiplier>
+
+					<!-- WORK RELATED THINGS / SPEEDS -->
+					<WorkSpeedGlobal>0.25</WorkSpeedGlobal>
+					<GlobalLearningFactor>0.5</GlobalLearningFactor>
+
+					<CookSpeed>0.1</CookSpeed>
+					<MiningYield>0.001</MiningYield>
+					<MiningSpeed>0.05</MiningSpeed>
+					<ConstructionSpeed>0.05</ConstructionSpeed>
+					<CleaningSpeed>0.2</CleaningSpeed>
+
+
+				</statOffsets>
+			</li>
+		</degreeDatas>
+	</TraitDef>
+</Defs>
